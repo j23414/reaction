@@ -24,3 +24,38 @@ reaction/
 Start github pages although not seeing a drop down toward `public`.
 
 ![](imgs/githubpages.png)
+
+
+## Build
+
+navigate to folder
+
+```
+cd reaction
+npm run build 
+```
+
+Which creates a new `build` folder
+
+```
+cd build
+find . 
+```
+
+```
+build/
+  |_ static/
+  |  |_ css/
+  |  |_ js/
+  |  |_ media/
+  |_ index.html
+  |_ various files...
+```
+
+* View at: https://j23414.github.io/reaction/reaction/build/index.html
+
+Which is initially blank, until we edit the package.json?
+
+```
+
+```
