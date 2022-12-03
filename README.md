@@ -56,6 +56,8 @@ build/
 
 Which is initially blank, until we edit the package.json?
 
+Yup: https://github.com/gitname/react-gh-pages#3-install-the-gh-pages-npm-package
+
 ```
 
 ```
